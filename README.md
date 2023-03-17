@@ -2,6 +2,7 @@
 
 - 😄 Homepage: [ji1kang.github.io](https://ji1kang.github.io/)
 - 📫 How to reach me: jiwonkang@g.skku.edu
+- 🌱 Blog: [velog.io/@ji1kang](https://velog.io/@ji1kang)
 
 <!--
 **ji1kang/ji1kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
